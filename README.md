@@ -1,4 +1,4 @@
-# sagemaker-llm
+# LLM on Sagemaker
 The project for llm model on sagemaker demo
 All models can test with gradio chat in the notebook
 
